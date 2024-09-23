@@ -143,7 +143,7 @@ export default function Home() {
               <Feature 
                 icon={Shield} 
                 title="Licensed & Insured" 
-                description="We're fully licensed (PC1110004) and insured for your peace of mind."
+                description="We&apos;re fully licensed (PC1110004) and insured for your peace of mind."
               />
               <Feature 
                 icon={Award} 
@@ -181,7 +181,7 @@ export default function Home() {
               />
               <ServiceCard 
                 title="Re-Piping Service" 
-                description="Upgrade your home's plumbing system for improved efficiency and reliability."
+                description="Upgrade your home&apos;s plumbing system for improved efficiency and reliability."
               />
               <ServiceCard 
                 title="Sewer Line Replacement" 
@@ -210,7 +210,7 @@ export default function Home() {
               <Testimonial
                 name="Mike Thompson"
                 role="Business Owner"
-                content="As a restaurant owner, plumbing issues can be devastating. TL Henderson's prompt and professional service keeps our business running smoothly."
+                content="As a restaurant owner, plumbing issues can be devastating. TL Henderson&apos;s prompt and professional service keeps our business running smoothly."
               />
               <Testimonial
                 name="Emily Rodriguez"
@@ -229,7 +229,7 @@ export default function Home() {
               </div>
               <div className="md:w-1/2 md:pl-12">
                 <h2 className="text-3xl font-bold mb-6">About TL Henderson Plumbing</h2>
-                <p className="text-gray-600 mb-6">Since 1997, we've been Fort Wayne's trusted plumbing experts. Our commitment to honesty, integrity, and high-quality work has made us the go-to choice for all plumbing needs in Noble, DeKalb, and Allen counties. We take pride in our workmanship and our commitment to surpassing our customers' standards.</p>
+                <p className="text-gray-600 mb-6">Since 1997, we&apos;ve been Fort Wayne&apos;s trusted plumbing experts. Our commitment to honesty, integrity, and high-quality work has made us the go-to choice for all plumbing needs in Noble, DeKalb, and Allen counties. We take pride in our workmanship and our commitment to surpassing our customers&apos; standards.</p>
                 <ul className="space-y-2">
                   {['25+ Years of Experience', 'Licensed and Insured', '24/7 Emergency Service', 'Fair Pricing', 'Personalized Approach'].map((item) => (
                     <li key={item} className="flex items-center">
